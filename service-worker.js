@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/site-joao-azevedo/precache-manifest.1e7ebd6f124f665064687464b632889b.js"
+  "/site-joao-azevedo/precache-manifest.a728bd061bc4bf307a7cec0433b6dd6b.js"
 );
 
 self.addEventListener('message', (event) => {

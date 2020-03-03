@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/site-joao-azevedo/static/css/main.ff5fcdd2.chunk.css",
-    "main.js": "/site-joao-azevedo/static/js/main.75bac918.chunk.js",
-    "main.js.map": "/site-joao-azevedo/static/js/main.75bac918.chunk.js.map",
+    "main.css": "/site-joao-azevedo/static/css/main.e47f85a3.chunk.css",
+    "main.js": "/site-joao-azevedo/static/js/main.a72d3792.chunk.js",
+    "main.js.map": "/site-joao-azevedo/static/js/main.a72d3792.chunk.js.map",
     "runtime-main.js": "/site-joao-azevedo/static/js/runtime-main.f65e8d73.js",
     "runtime-main.js.map": "/site-joao-azevedo/static/js/runtime-main.f65e8d73.js.map",
-    "static/js/2.42004ef8.chunk.js": "/site-joao-azevedo/static/js/2.42004ef8.chunk.js",
-    "static/js/2.42004ef8.chunk.js.map": "/site-joao-azevedo/static/js/2.42004ef8.chunk.js.map",
+    "static/js/2.86620d8d.chunk.js": "/site-joao-azevedo/static/js/2.86620d8d.chunk.js",
+    "static/js/2.86620d8d.chunk.js.map": "/site-joao-azevedo/static/js/2.86620d8d.chunk.js.map",
     "index.html": "/site-joao-azevedo/index.html",
-    "precache-manifest.1e7ebd6f124f665064687464b632889b.js": "/site-joao-azevedo/precache-manifest.1e7ebd6f124f665064687464b632889b.js",
+    "precache-manifest.a728bd061bc4bf307a7cec0433b6dd6b.js": "/site-joao-azevedo/precache-manifest.a728bd061bc4bf307a7cec0433b6dd6b.js",
     "service-worker.js": "/site-joao-azevedo/service-worker.js",
-    "static/css/main.ff5fcdd2.chunk.css.map": "/site-joao-azevedo/static/css/main.ff5fcdd2.chunk.css.map",
-    "static/js/2.42004ef8.chunk.js.LICENSE.txt": "/site-joao-azevedo/static/js/2.42004ef8.chunk.js.LICENSE.txt",
+    "static/css/main.e47f85a3.chunk.css.map": "/site-joao-azevedo/static/css/main.e47f85a3.chunk.css.map",
+    "static/js/2.86620d8d.chunk.js.LICENSE.txt": "/site-joao-azevedo/static/js/2.86620d8d.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/site-joao-azevedo/static/media/background.836ec7ff.png",
-    "static/media/index.scss": "/site-joao-azevedo/static/media/helvetica-light.68866f03.ttf"
+    "static/media/app.scss": "/site-joao-azevedo/static/media/helvetica-light.68866f03.ttf",
+    "static/media/joao.jpg": "/site-joao-azevedo/static/media/joao.11ae2002.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f65e8d73.js",
-    "static/js/2.42004ef8.chunk.js",
-    "static/css/main.ff5fcdd2.chunk.css",
-    "static/js/main.75bac918.chunk.js"
+    "static/js/2.86620d8d.chunk.js",
+    "static/css/main.e47f85a3.chunk.css",
+    "static/js/main.a72d3792.chunk.js"
   ]
 }
